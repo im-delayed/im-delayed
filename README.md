@@ -4,7 +4,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 우와 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 거지예요 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 거지예요 </li><li> 돈주면시키는거다합니다 </li><li> 겨울방학해커톤노예구직(상금있는것만) </li><li> 오프라인 지양 </li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -31,3 +31,4 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ㅇㅇ&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+    
